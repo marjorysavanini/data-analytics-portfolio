@@ -1,6 +1,8 @@
 # Data Analytics Portfolio
 
-Learning portfolio documenting SQL, Power BI, Python and future analytics projects.
+My learning journey in Data Analytics, SQL, Power BI, Python, Cloud and AI.
+
+This portfolio documents my learning through lesson notes, practice exercises, and future analytics projects.
 
 ## SQL for Data Science — UC Davis (Coursera)
 
